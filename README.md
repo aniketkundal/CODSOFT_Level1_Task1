@@ -1,6 +1,6 @@
 # CODSOFT
-Name: GAUTAM LASGOTRA 
-Email: 23bcs032@smvdu.ac.in 
+Name: ANIKET KUNDAL 
+Email: 23bcs015@smvdu.ac.in 
 Batch: JULY BATCH A66 
 Internship Domain: WEB DEVELOPMENT 
 Level: 1 
